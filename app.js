@@ -3,7 +3,6 @@ const argv = require('./config/yargs')
 const colors = require('colors')
 console.clear();
 
-
 // const [, , arg3 = 'base=1'] = process.argv; 
 // destructuracion, saco el argumento 3
 // const [, base = 1] = arg3.split('=')
