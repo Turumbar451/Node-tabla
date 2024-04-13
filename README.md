@@ -1,6 +1,6 @@
 # Notas:
 
-Este es mi primer programa en node uwu
+Este es mi primer programa en node
 
 ```
 Opciones:
